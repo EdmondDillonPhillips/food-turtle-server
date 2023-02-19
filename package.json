@@ -1,0 +1,25 @@
+{
+  "name": "food-turtle-server",
+  "version": "1.0.0",
+  "description": "Back end for Food Turtle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmondDillonPhillips/food-turtle-server.git"
+  },
+  "author": "Food Turtle Team",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "express": "*",
+    "pg": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/EdmondDillonPhillips/food-turtle-server/issues"
+  },
+  "homepage": "https://github.com/EdmondDillonPhillips/food-turtle-server#readme"
+}
